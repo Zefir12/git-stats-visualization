@@ -108,9 +108,11 @@ MONO = "ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace"
 CELL = 12
 GAP = 2
 STEP = CELL + GAP
-ANGLE = math.radians(20)
+# Higher ANGLE looks more from above; Z_SCALE flattens towers to match.
+ANGLE = math.radians(26)
 COS = math.cos(ANGLE)
 SIN = math.sin(ANGLE)
+Z_SCALE = 0.9
 SHADE_LEFT = 0.82
 SHADE_RIGHT = 0.64
 BASE_HEIGHT = 6
@@ -120,7 +122,7 @@ SLAB_MARGIN = 5
 
 
 def project(x: float, y: float, z: float = 0.0) -> tuple[float, float]:
-    return (x - y) * COS, (x + y) * SIN - z
+    return (x - y) * COS, (x + y) * SIN - z * Z_SCALE
 
 
 def pts(*points: tuple[float, float]) -> str:
@@ -641,12 +643,18 @@ def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--source", action="append", default=None, help="github:USER or forgejo:https://host/USER (repeatable)")
     parser.add_argument("--name", default=os.getenv("DISPLAY_NAME"), help="title shown on the card (default: first source's user)")
-    parser.add_argument("--theme", default=os.getenv("THEME", "github"), choices=sorted(THEMES))
+    parser.add_argument("--theme", default=os.getenv("THEME", "github"), help=f"one or more of {', '.join(sorted(THEMES))} (comma/space separated)")
     parser.add_argument("--tz", default=os.getenv("TZ_NAME", "UTC"), help="timezone used to bucket Forgejo activity into days")
     parser.add_argument("--no-card", action="store_true", help="transparent background, no card frame")
     parser.add_argument("--mock", action="store_true", help="render with built-in mock data")
     parser.add_argument("--out", default="./output")
     args = parser.parse_args()
+
+    themes = args.theme.replace(",", " ").split()
+    unknown = [t for t in themes if t not in THEMES]
+    if not themes or unknown:
+        print(f"Unknown theme(s) {unknown}. Choose from: {', '.join(sorted(THEMES))}", file=sys.stderr)
+        return 1
 
     tz = ZoneInfo(args.tz)
     today = dt.datetime.now(tz).date()
@@ -683,11 +691,14 @@ def main() -> int:
     stats = compute_stats(cells)
     out = Path(args.out)
     out.mkdir(parents=True, exist_ok=True)
-    for mode in ("dark", "light"):
-        svg = render_svg(cells, stats, mode=mode, theme=args.theme, name=name, sources=labels, card=not args.no_card)
-        path = out / f"skyline-{mode}.svg"
-        path.write_text(svg, encoding="utf-8")
-        print(f"wrote {path} ({len(svg) // 1024} KB)")
+    for i, theme in enumerate(themes):
+        for mode in ("dark", "light"):
+            svg = render_svg(cells, stats, mode=mode, theme=theme, name=name, sources=labels, card=not args.no_card)
+            # The first theme also keeps the plain names so existing embeds don't break.
+            names = [f"skyline-{theme}-{mode}.svg"] + ([f"skyline-{mode}.svg"] if i == 0 else [])
+            for filename in names:
+                (out / filename).write_text(svg, encoding="utf-8")
+                print(f"wrote {out / filename} ({len(svg) // 1024} KB)")
     return 0
 
 

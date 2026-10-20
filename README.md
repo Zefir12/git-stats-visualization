@@ -22,7 +22,7 @@ Everything is pure SVG and CSS, with no JavaScript, so it works inside `<img>` t
 | --- | --- | --- |
 | ![](docs/preview-github.png) | ![](docs/preview-forgejo.png) | ![](docs/preview-aurora.png) |
 
-Every theme has a dark and a light variant (`output/skyline-dark.svg`, `output/skyline-light.svg`).
+Every theme has a dark and a light variant. You can render several themes at once with `--theme "forgejo github"` (or `THEME="forgejo github"`). Each one is written to `output/skyline-<theme>-<dark|light>.svg`, and the first theme is also written to `output/skyline-dark.svg` / `skyline-light.svg`, so existing embeds keep working.
 
 ## Data sources
 
@@ -31,7 +31,7 @@ Pass any number of sources with `--source`, or put them in the `SOURCES` env var
 | Source | Spec | Token |
 | --- | --- | --- |
 | GitHub | `github:USER` | `GH_README_TOKEN` (or `GITHUB_TOKEN`), required |
-| Forgejo / Gitea | `forgejo:https://host/USER` | `FORGEJO_TOKEN`, optional. Only needed for private instances. |
+| Forgejo / Gitea | `forgejo:https://host/USER` | `FJ_README_TOKEN` secret (env `FORGEJO_TOKEN`), optional. Only needed for private instances. |
 | Codeberg shorthand | `codeberg:USER` | same as Forgejo |
 
 Forgejo data comes from the public `/api/v1/users/USER/heatmap` endpoint. The user needs **public activity** enabled for it to work (Settings → Profile, don't tick "Hide activity from profile page"). Activity is grouped into days using `--tz` / `TZ_NAME` (default `UTC`).
@@ -79,7 +79,7 @@ Other flags: `--name` sets the card title, and `--no-card` gives a transparent b
 3. Add repo **variables** under Settings → Actions → Variables:
    - `SOURCES`: for example `codeberg:you` or `forgejo:https://git.example.com/you github:you`
    - `THEME` (default `forgejo`), `TZ_NAME`, `DISPLAY_NAME`
-4. Add secrets if you need them: `GH_README_TOKEN` if you include GitHub, `FORGEJO_TOKEN` for private instances, and `PUSH_TOKEN` (an access token with repo write access) if the automatic token can't push.
+4. Add secrets if you need them: `GH_README_TOKEN` if you include GitHub, `FJ_README_TOKEN` for private instances, and `PUSH_TOKEN` (an access token with repo write access) if the automatic token can't push.
 5. Run the workflow once by hand. After that it runs every day.
 6. Forgejo profile READMEs live in a repo named **`.profile`** (`you/.profile`, with a `README.md` at the root):
 
