@@ -1,0 +1,44 @@
+name: Update contribution skyline
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 6 * * *"
+
+jobs:
+  render:
+    # Codeberg's hosted runners use labels like `codeberg-tiny`;
+    # self-hosted Forgejo runners are usually `docker`.
+    runs-on: docker
+    container:
+      image: node:20-bookworm # has git + python3, and node for checkout
+    steps:
+      - uses: https://code.forgejo.org/actions/checkout@v4
+
+      - name: Render SVGs
+        env:
+          # e.g. "forgejo:https://codeberg.org/you github:you"
+          SOURCES: ${{ vars.SOURCES }}
+          THEME: ${{ vars.THEME || 'forgejo' }}
+          TZ_NAME: ${{ vars.TZ_NAME || 'UTC' }}
+          DISPLAY_NAME: ${{ vars.DISPLAY_NAME }}
+          GH_README_TOKEN: ${{ secrets.GH_README_TOKEN }}
+          FORGEJO_TOKEN: ${{ secrets.FORGEJO_TOKEN }}
+        run: python3 generate.py --out output
+
+      - name: Commit
+        env:
+          PUSH_TOKEN: ${{ secrets.PUSH_TOKEN }}
+        run: |
+          git config user.name "forgejo-actions"
+          git config user.email "actions@noreply.localhost"
+          git add output/*.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update contribution skyline"
+          # The automatic token can push on most instances; set PUSH_TOKEN if yours can't.
+          if [ -n "$PUSH_TOKEN" ]; then
+            git remote set-url origin "${{ github.server_url }}/${{ github.repository }}.git"
+            git -c http.extraheader="Authorization: token $PUSH_TOKEN" push origin HEAD
+          else
+            git push origin HEAD
+          fi
