@@ -330,7 +330,8 @@ def parse_source(spec: str) -> tuple[str, str, str]:
     kind, _, rest = spec.partition(":")
     kind = kind.lower()
     if kind == "github" and rest:
-        return kind, "https://github.com", rest.strip("/")
+        # Accept both `github:USER` and `github:https://github.com/USER`.
+        return kind, "https://github.com", rest.strip("/").rsplit("/", 1)[-1]
     if kind in ("forgejo", "gitea", "codeberg") and rest:
         if kind == "codeberg" and "/" not in rest:
             rest = f"https://codeberg.org/{rest}"
