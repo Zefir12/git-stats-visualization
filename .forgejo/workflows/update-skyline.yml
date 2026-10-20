@@ -23,7 +23,7 @@ jobs:
           TZ_NAME: ${{ vars.TZ_NAME || 'UTC' }}
           DISPLAY_NAME: ${{ vars.DISPLAY_NAME }}
           GH_README_TOKEN: ${{ secrets.GH_README_TOKEN }}
-          FORGEJO_TOKEN: ${{ secrets.FORGEJO_TOKEN }}
+          FORGEJO_TOKEN: ${{ secrets.FJ_README_TOKEN }}
         run: python3 generate.py --out output
 
       - name: Commit
