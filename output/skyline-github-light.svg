@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-118.08 -117.20 814.99 525.73" width="815" height="526" role="img" aria-label="Zefir: 1,880 contributions in the last year">
-<title>Zefir: 1,880 contributions in the last year</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-118.08 -117.20 814.99 525.73" width="815" height="526" role="img" aria-label="Zefir: 1,920 contributions in the last year">
+<title>Zefir: 1,920 contributions in the last year</title>
 
 <style>
   .cube { animation: drop 0.9s cubic-bezier(.34,1.56,.64,1) both; }
@@ -80,7 +80,7 @@
 <text x="576.11" y="1548.80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >1</text>
 </g>
 <text x="594.51" y="-63.20" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >,</text>
-<g class="roll" transform="translate(0 -1976.00)" style="transform:translateY(-1976.00px);animation-delay:0.36s">
+<g class="roll" transform="translate(0 -2028.00)" style="transform:translateY(-2028.00px);animation-delay:0.36s">
 <text x="612.91" y="-63.20" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >0</text>
 <text x="612.91" y="-11.20" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >1</text>
 <text x="612.91" y="40.80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >2</text>
@@ -120,8 +120,9 @@
 <text x="612.91" y="1808.80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >6</text>
 <text x="612.91" y="1860.80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >7</text>
 <text x="612.91" y="1912.80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >8</text>
+<text x="612.91" y="1964.80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >9</text>
 </g>
-<g class="roll" transform="translate(0 -1456.00)" style="transform:translateY(-1456.00px);animation-delay:0.42s">
+<g class="roll" transform="translate(0 -1144.00)" style="transform:translateY(-1144.00px);animation-delay:0.42s">
 <text x="637.71" y="-63.20" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >0</text>
 <text x="637.71" y="-11.20" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >1</text>
 <text x="637.71" y="40.80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >2</text>
@@ -145,12 +146,6 @@
 <text x="637.71" y="976.80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >0</text>
 <text x="637.71" y="1028.80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >1</text>
 <text x="637.71" y="1080.80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >2</text>
-<text x="637.71" y="1132.80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >3</text>
-<text x="637.71" y="1184.80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >4</text>
-<text x="637.71" y="1236.80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >5</text>
-<text x="637.71" y="1288.80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >6</text>
-<text x="637.71" y="1340.80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >7</text>
-<text x="637.71" y="1392.80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >8</text>
 </g>
 <g class="roll" transform="translate(0 -1040.00)" style="transform:translateY(-1040.00px);animation-delay:0.48s">
 <text x="662.51" y="-63.20" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >0</text>
@@ -181,14 +176,14 @@
 <rect x="358.91" y="-31.20" width="100" height="50" rx="8" fill="#ffffff" fill-opacity=".75" stroke="#d8dee4"/>
 <rect x="368.91" y="-31.20" width="22" height="2" rx="1" fill="#216e39"/>
 <text x="368.91" y="-15.20" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="7.5" font-weight="600" fill="#59636e" text-anchor="start" letter-spacing=".8">LONGEST STREAK</text>
-<text x="368.91" y="6.80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f2328" text-anchor="start" >12</text>
+<text x="368.91" y="6.80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f2328" text-anchor="start" >13</text>
 <text x="394.51" y="6.80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" font-weight="400" fill="#59636e" text-anchor="start" >days</text>
 </g>
 <g class="fade" style="animation-delay:0.72s">
 <rect x="466.91" y="-31.20" width="100" height="50" rx="8" fill="#ffffff" fill-opacity=".75" stroke="#d8dee4"/>
 <rect x="476.91" y="-31.20" width="22" height="2" rx="1" fill="#30a14e"/>
 <text x="476.91" y="-15.20" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="7.5" font-weight="600" fill="#59636e" text-anchor="start" letter-spacing=".8">CURRENT STREAK</text>
-<text x="476.91" y="6.80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f2328" text-anchor="start" >12</text>
+<text x="476.91" y="6.80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f2328" text-anchor="start" >13</text>
 <text x="502.51" y="6.80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" font-weight="400" fill="#59636e" text-anchor="start" >days</text>
 <circle cx="554.9051823539819" cy="2.799999999999997" r="3" fill="#40c463"/>
 <circle class="ring" cx="554.9051823539819" cy="2.799999999999997" r="3" fill="none" stroke="#40c463" stroke-width="1.2"/>
@@ -352,10 +347,9 @@
 <polygon points="88.08,42.96 98.87,48.22 88.08,53.48 77.30,48.22" fill="#ebedf0"/>
 </g>
 <g class="cube" style="animation-delay:0.376s">
-<polygon points="-61.12,54.36 -61.12,36.36 -50.33,41.62 -50.33,59.62" fill="#1b5a2e"/>
-<polygon points="-50.33,59.62 -50.33,41.62 -39.55,36.36 -39.55,54.36" fill="#154624"/>
-<polygon points="-50.33,31.10 -39.55,36.36 -50.33,41.62 -61.12,36.36" fill="#216e39"/>
-<polygon class="glow" points="-50.33,31.10 -39.55,36.36 -50.33,41.62 -61.12,36.36" fill="#40c463" filter="url(#blur)" style="animation-delay:0.40s"/>
+<polygon points="-61.12,54.36 -61.12,36.36 -50.33,41.62 -50.33,59.62" fill="#27843f"/>
+<polygon points="-50.33,59.62 -50.33,41.62 -39.55,36.36 -39.55,54.36" fill="#1e6731"/>
+<polygon points="-50.33,31.10 -39.55,36.36 -50.33,41.62 -61.12,36.36" fill="#30a14e"/>
 <polygon class="shine" points="-50.33,31.10 -39.55,36.36 -50.33,41.62 -61.12,36.36" fill="#ffffff" style="animation-delay:2.824s"/>
 </g>
 <g class="cube" style="animation-delay:0.376s">
@@ -805,10 +799,9 @@
 <polygon points="264.25,141.16 275.03,146.42 264.25,151.68 253.46,146.42" fill="#ebedf0"/>
 </g>
 <g class="cube" style="animation-delay:0.706s">
-<polygon points="278.63,146.42 278.63,128.42 289.41,133.68 289.41,151.68" fill="#1b5a2e"/>
-<polygon points="289.41,151.68 289.41,133.68 300.20,128.42 300.20,146.42" fill="#154624"/>
-<polygon points="289.41,123.16 300.20,128.42 289.41,133.68 278.63,128.42" fill="#216e39"/>
-<polygon class="glow" points="289.41,123.16 300.20,128.42 289.41,133.68 278.63,128.42" fill="#40c463" filter="url(#blur)" style="animation-delay:1.15s"/>
+<polygon points="278.63,146.42 278.63,128.42 289.41,133.68 289.41,151.68" fill="#27843f"/>
+<polygon points="289.41,151.68 289.41,133.68 300.20,128.42 300.20,146.42" fill="#1e6731"/>
+<polygon points="289.41,123.16 300.20,128.42 289.41,133.68 278.63,128.42" fill="#30a14e"/>
 <polygon class="shine" points="289.41,123.16 300.20,128.42 289.41,133.68 278.63,128.42" fill="#ffffff" style="animation-delay:3.244s"/>
 </g>
 <g class="cube" style="animation-delay:0.728s">
@@ -1446,10 +1439,9 @@
 <polygon points="490.74,288.45 501.53,293.71 490.74,298.97 479.96,293.71" fill="#ebedf0"/>
 </g>
 <g class="cube" style="animation-delay:1.234s">
-<polygon points="505.12,293.71 505.12,275.71 515.91,280.97 515.91,298.97" fill="#1b5a2e"/>
-<polygon points="515.91,298.97 515.91,280.97 526.69,275.71 526.69,293.71" fill="#154624"/>
-<polygon points="515.91,270.45 526.69,275.71 515.91,280.97 505.12,275.71" fill="#216e39"/>
-<polygon class="glow" points="515.91,270.45 526.69,275.71 515.91,280.97 505.12,275.71" fill="#40c463" filter="url(#blur)" style="animation-delay:2.35s"/>
+<polygon points="505.12,293.71 505.12,275.71 515.91,280.97 515.91,298.97" fill="#27843f"/>
+<polygon points="515.91,298.97 515.91,280.97 526.69,275.71 526.69,293.71" fill="#1e6731"/>
+<polygon points="515.91,270.45 526.69,275.71 515.91,280.97 505.12,275.71" fill="#30a14e"/>
 <polygon class="shine" points="515.91,270.45 526.69,275.71 515.91,280.97 505.12,275.71" fill="#ffffff" style="animation-delay:3.916s"/>
 </g>
 <g class="cube" style="animation-delay:1.234s">
@@ -1637,10 +1629,9 @@
 <polygon class="shine" points="566.24,300.07 577.03,305.33 566.24,310.59 555.45,305.33" fill="#ffffff" style="animation-delay:4.084s"/>
 </g>
 <g class="cube" style="animation-delay:1.366s">
-<polygon points="580.62,330.53 580.62,312.53 591.41,317.79 591.41,335.79" fill="#1b5a2e"/>
-<polygon points="591.41,335.79 591.41,317.79 602.19,312.53 602.19,330.53" fill="#154624"/>
-<polygon points="591.41,307.27 602.19,312.53 591.41,317.79 580.62,312.53" fill="#216e39"/>
-<polygon class="glow" points="591.41,307.27 602.19,312.53 591.41,317.79 580.62,312.53" fill="#40c463" filter="url(#blur)" style="animation-delay:2.65s"/>
+<polygon points="580.62,330.53 580.62,312.53 591.41,317.79 591.41,335.79" fill="#27843f"/>
+<polygon points="591.41,335.79 591.41,317.79 602.19,312.53 602.19,330.53" fill="#1e6731"/>
+<polygon points="591.41,307.27 602.19,312.53 591.41,317.79 580.62,312.53" fill="#30a14e"/>
 <polygon class="shine" points="591.41,307.27 602.19,312.53 591.41,317.79 580.62,312.53" fill="#ffffff" style="animation-delay:4.084s"/>
 </g>
 <g class="cube" style="animation-delay:1.366s">
@@ -1736,7 +1727,14 @@
 <polygon class="shine" points="566.24,324.62 577.03,329.88 566.24,335.14 555.45,329.88" fill="#ffffff" style="animation-delay:4.196s"/>
 </g>
 <g class="cube" style="animation-delay:1.454s">
-<polygon points="591.41,349.82 602.19,355.08 591.41,360.34 580.62,355.08" fill="#ebedf0"/>
+<polygon points="580.62,355.08 580.62,329.88 591.41,335.14 591.41,360.34" fill="#1b5a2e"/>
+<polygon points="591.41,360.34 591.41,335.14 602.19,329.88 602.19,355.08" fill="#154624"/>
+<polygon points="591.41,324.62 602.19,329.88 591.41,335.14 580.62,329.88" fill="#216e39"/>
+<polygon class="glow" points="591.41,324.62 602.19,329.88 591.41,335.14 580.62,329.88" fill="#40c463" filter="url(#blur)" style="animation-delay:2.85s"/>
+<polygon class="shine" points="591.41,324.62 602.19,329.88 591.41,335.14 580.62,329.88" fill="#ffffff" style="animation-delay:4.196s"/>
+</g>
+<g class="cube" style="animation-delay:1.476s">
+<polygon points="578.82,355.96 589.61,361.22 578.82,366.48 568.04,361.22" fill="#ebedf0"/>
 </g>
 <rect class="spark" x="564.06" y="329.11" width="1.55" height="1.55" fill="#40c463" transform="rotate(45 564.83 329.88)" style="animation-delay:5.14s"/>
 <rect class="spark" x="561.85" y="328.91" width="1.94" height="1.94" fill="#40c463" transform="rotate(45 562.82 329.88)" style="animation-delay:5.92s"/>
@@ -1785,7 +1783,7 @@
 <rect class="bar" x="-32.08" y="315.53" width="11" height="33.00" rx="2" fill="url(#bar)" style="animation-delay:1.38s"/>
 <text x="-26.58" y="360.53" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" font-weight="400" fill="#59636e" text-anchor="middle" >T</text>
 <rect x="-16.08" y="296.53" width="11" height="52" rx="2" fill="#d8dee4" fill-opacity=".35"/>
-<rect class="bar" x="-16.08" y="324.54" width="11" height="23.99" rx="2" fill="url(#bar)" style="animation-delay:1.45s"/>
+<rect class="bar" x="-16.08" y="318.10" width="11" height="30.43" rx="2" fill="url(#bar)" style="animation-delay:1.45s"/>
 <text x="-10.58" y="360.53" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" font-weight="400" fill="#59636e" text-anchor="middle" >F</text>
 <rect x="-0.08" y="296.53" width="11" height="52" rx="2" fill="#d8dee4" fill-opacity=".35"/>
 <rect class="bar" x="-0.08" y="296.53" width="11" height="52.00" rx="2" fill="url(#barPeak)" style="animation-delay:1.52s"/>
@@ -1799,5 +1797,5 @@
 <rect x="-24.08" y="370.531763302825" width="9" height="9" rx="2" fill="#216e39" stroke="#d8dee4" stroke-width=".5"/>
 <text x="-9.08" y="378.53" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.5" font-weight="400" fill="#59636e" text-anchor="start" >More</text>
 </g>
-<text x="23.92" y="378.53" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.5" font-weight="400" fill="#59636e" text-anchor="start" class="fade" style="animation-delay:1.5s">130 active days · updated Oct 30, 2026</text>
+<text x="23.92" y="378.53" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.5" font-weight="400" fill="#59636e" text-anchor="start" class="fade" style="animation-delay:1.5s">131 active days · updated Oct 31, 2026</text>
 </svg>
