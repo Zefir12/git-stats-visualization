@@ -185,10 +185,8 @@
 <rect x="466.91" y="-31.20" width="100" height="50" rx="8" fill="#ffffff" fill-opacity=".75" stroke="#d8dee4"/>
 <rect x="476.91" y="-31.20" width="22" height="2" rx="1" fill="#f0700f"/>
 <text x="476.91" y="-15.20" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="7.5" font-weight="600" fill="#59636e" text-anchor="start" letter-spacing=".8">CURRENT STREAK</text>
-<text x="476.91" y="6.80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f2328" text-anchor="start" >29</text>
-<text x="502.51" y="6.80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" font-weight="400" fill="#59636e" text-anchor="start" >days</text>
-<circle cx="554.9051823539819" cy="2.799999999999997" r="3" fill="#ff8a2b"/>
-<circle class="ring" cx="554.9051823539819" cy="2.799999999999997" r="3" fill="none" stroke="#ff8a2b" stroke-width="1.2"/>
+<text x="476.91" y="6.80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f2328" text-anchor="start" >0</text>
+<text x="491.71" y="6.80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" font-weight="400" fill="#59636e" text-anchor="start" >days</text>
 </g>
 <g class="fade" style="animation-delay:0.84s">
 <rect x="574.91" y="-31.20" width="100" height="50" rx="8" fill="#ffffff" fill-opacity=".75" stroke="#d8dee4"/>
@@ -1721,6 +1719,9 @@
 <polygon class="glow" points="603.99,306.21 614.78,311.47 603.99,316.73 593.20,311.47" fill="#ff8a2b" filter="url(#blur)" style="animation-delay:2.70s"/>
 <polygon class="shine" points="603.99,306.21 614.78,311.47 603.99,316.73 593.20,311.47" fill="#ffffff" style="animation-delay:4.112s"/>
 </g>
+<g class="cube" style="animation-delay:1.388s">
+<polygon points="629.16,331.41 639.94,336.67 629.16,341.93 618.37,336.67" fill="#efebe8"/>
+</g>
 <g class="cube" style="animation-delay:1.410s">
 <polygon points="530.29,342.81 530.29,320.31 541.07,325.57 541.07,348.07" fill="#973608"/>
 <polygon points="541.07,348.07 541.07,325.57 551.86,320.31 551.86,342.81" fill="#762a06"/>
@@ -1823,5 +1824,5 @@
 <rect x="-24.08" y="370.531763302825" width="9" height="9" rx="2" fill="#b9420a" stroke="#d8dee4" stroke-width=".5"/>
 <text x="-9.08" y="378.53" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.5" font-weight="400" fill="#59636e" text-anchor="start" >More</text>
 </g>
-<text x="23.92" y="378.53" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.5" font-weight="400" fill="#59636e" text-anchor="start" class="fade" style="animation-delay:1.5s">142 active days · updated Nov 16, 2026</text>
+<text x="23.92" y="378.53" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.5" font-weight="400" fill="#59636e" text-anchor="start" class="fade" style="animation-delay:1.5s">142 active days · updated Nov 17, 2026</text>
 </svg>
