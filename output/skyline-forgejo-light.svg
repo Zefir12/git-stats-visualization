@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-118.08 -117.20 814.99 525.73" width="815" height="526" role="img" aria-label="Zefir: 3,625 contributions in the last year">
-<title>Zefir: 3,625 contributions in the last year</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-118.08 -117.20 814.99 525.73" width="815" height="526" role="img" aria-label="Zefir: 3,654 contributions in the last year">
+<title>Zefir: 3,654 contributions in the last year</title>
 
 <style>
   .cube { animation: drop 0.9s cubic-bezier(.34,1.56,.64,1) both; }
@@ -38,7 +38,7 @@
 </defs>
 <rect x="-117.08" y="-116.20" width="812.99" height="523.73" rx="14" fill="url(#bg)" stroke="#d0d7de"/>
 <rect x="-117.08" y="-116.20" width="812.99" height="523.73" rx="14" fill="url(#dots)"/>
-<ellipse class="aura" cx="547.37" cy="309.93" rx="190" ry="90" fill="url(#aura)"/>
+<ellipse class="aura" cx="559.95" cy="316.07" rx="190" ry="90" fill="url(#aura)"/>
 <g class="fade">
 <text x="-96.08" y="-77.20" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#1f2328" text-anchor="start" >Zefir</text>
 <text x="-96.08" y="-59.20" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#59636e" text-anchor="start" >contributions · last 12 months · git.zefirlabs.net + GitHub</text>
@@ -121,7 +121,7 @@
 <text x="612.91" y="1756.80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >5</text>
 <text x="612.91" y="1808.80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >6</text>
 </g>
-<g class="roll" transform="translate(0 -1144.00)" style="transform:translateY(-1144.00px);animation-delay:0.42s">
+<g class="roll" transform="translate(0 -1300.00)" style="transform:translateY(-1300.00px);animation-delay:0.42s">
 <text x="637.71" y="-63.20" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >0</text>
 <text x="637.71" y="-11.20" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >1</text>
 <text x="637.71" y="40.80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >2</text>
@@ -145,8 +145,11 @@
 <text x="637.71" y="976.80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >0</text>
 <text x="637.71" y="1028.80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >1</text>
 <text x="637.71" y="1080.80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >2</text>
+<text x="637.71" y="1132.80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >3</text>
+<text x="637.71" y="1184.80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >4</text>
+<text x="637.71" y="1236.80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >5</text>
 </g>
-<g class="roll" transform="translate(0 -1300.00)" style="transform:translateY(-1300.00px);animation-delay:0.48s">
+<g class="roll" transform="translate(0 -1248.00)" style="transform:translateY(-1248.00px);animation-delay:0.48s">
 <text x="662.51" y="-63.20" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >0</text>
 <text x="662.51" y="-11.20" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >1</text>
 <text x="662.51" y="40.80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >2</text>
@@ -172,7 +175,6 @@
 <text x="662.51" y="1080.80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >2</text>
 <text x="662.51" y="1132.80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >3</text>
 <text x="662.51" y="1184.80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >4</text>
-<text x="662.51" y="1236.80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="url(#accent)" text-anchor="middle" >5</text>
 </g>
 </g>
 <text x="674.91" y="-47.20" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.5" font-weight="600" fill="#59636e" text-anchor="end" letter-spacing="1" class="fade" style="animation-delay:.4s">TOTAL CONTRIBUTIONS</text>
@@ -187,7 +189,7 @@
 <rect x="466.91" y="-31.20" width="100" height="50" rx="8" fill="#ffffff" fill-opacity=".75" stroke="#d8dee4"/>
 <rect x="476.91" y="-31.20" width="22" height="2" rx="1" fill="#f0700f"/>
 <text x="476.91" y="-15.20" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="7.5" font-weight="600" fill="#59636e" text-anchor="start" letter-spacing=".8">CURRENT STREAK</text>
-<text x="476.91" y="6.80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f2328" text-anchor="start" >5</text>
+<text x="476.91" y="6.80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f2328" text-anchor="start" >6</text>
 <text x="491.71" y="6.80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" font-weight="400" fill="#59636e" text-anchor="start" >days</text>
 <circle cx="554.9051823539819" cy="2.799999999999997" r="3" fill="#ff8a2b"/>
 <circle class="ring" cx="554.9051823539819" cy="2.799999999999997" r="3" fill="none" stroke="#ff8a2b" stroke-width="1.2"/>
@@ -452,9 +454,9 @@
 <polygon class="shine" points="37.75,58.51 48.53,63.77 37.75,69.03 26.96,63.77" fill="#ffffff" style="animation-delay:2.908s"/>
 </g>
 <g class="cube" style="animation-delay:0.442s">
-<polygon points="52.13,72.77 52.13,57.47 62.92,62.73 62.92,78.03" fill="#c45b0c"/>
-<polygon points="62.92,78.03 62.92,62.73 73.70,57.47 73.70,72.77" fill="#994709"/>
-<polygon points="62.92,52.21 73.70,57.47 62.92,62.73 52.13,57.47" fill="#f0700f"/>
+<polygon points="52.13,72.77 52.13,57.47 62.92,62.73 62.92,78.03" fill="#d1844d"/>
+<polygon points="62.92,78.03 62.92,62.73 73.70,57.47 73.70,72.77" fill="#a3673c"/>
+<polygon points="62.92,52.21 73.70,57.47 62.92,62.73 52.13,57.47" fill="#ffa25e"/>
 <polygon class="shine" points="62.92,52.21 73.70,57.47 62.92,62.73 52.13,57.47" fill="#ffffff" style="animation-delay:2.908s"/>
 </g>
 <g class="cube" style="animation-delay:0.442s">
@@ -843,9 +845,9 @@
 <polygon points="264.25,153.43 275.03,158.69 264.25,163.95 253.46,158.69" fill="#efebe8"/>
 </g>
 <g class="cube" style="animation-delay:0.750s">
-<polygon points="278.63,158.69 278.63,143.39 289.41,148.65 289.41,163.95" fill="#c45b0c"/>
-<polygon points="289.41,163.95 289.41,148.65 300.20,143.39 300.20,158.69" fill="#994709"/>
-<polygon points="289.41,138.13 300.20,143.39 289.41,148.65 278.63,143.39" fill="#f0700f"/>
+<polygon points="278.63,158.69 278.63,143.39 289.41,148.65 289.41,163.95" fill="#d1844d"/>
+<polygon points="289.41,163.95 289.41,148.65 300.20,143.39 300.20,158.69" fill="#a3673c"/>
+<polygon points="289.41,138.13 300.20,143.39 289.41,148.65 278.63,143.39" fill="#ffa25e"/>
 <polygon class="shine" points="289.41,138.13 300.20,143.39 289.41,148.65 278.63,143.39" fill="#ffffff" style="animation-delay:3.300s"/>
 </g>
 <g class="cube" style="animation-delay:0.750s">
@@ -1141,9 +1143,9 @@
 <polygon points="377.49,220.94 388.28,226.20 377.49,231.46 366.71,226.20" fill="#efebe8"/>
 </g>
 <g class="cube" style="animation-delay:0.992s">
-<polygon points="391.87,226.20 391.87,210.90 402.66,216.16 402.66,231.46" fill="#c45b0c"/>
-<polygon points="402.66,231.46 402.66,216.16 413.45,210.90 413.45,226.20" fill="#994709"/>
-<polygon points="402.66,205.64 413.45,210.90 402.66,216.16 391.87,210.90" fill="#f0700f"/>
+<polygon points="391.87,226.20 391.87,210.90 402.66,216.16 402.66,231.46" fill="#d1844d"/>
+<polygon points="402.66,231.46 402.66,216.16 413.45,210.90 413.45,226.20" fill="#a3673c"/>
+<polygon points="402.66,205.64 413.45,210.90 402.66,216.16 391.87,210.90" fill="#ffa25e"/>
 <polygon class="shine" points="402.66,205.64 413.45,210.90 402.66,216.16 391.87,210.90" fill="#ffffff" style="animation-delay:3.608s"/>
 </g>
 <g class="cube" style="animation-delay:0.992s">
@@ -1174,9 +1176,9 @@
 <polygon class="shine" points="390.08,214.48 400.86,219.74 390.08,225.00 379.29,219.74" fill="#ffffff" style="animation-delay:3.636s"/>
 </g>
 <g class="cube" style="animation-delay:1.014s">
-<polygon points="404.46,232.34 404.46,217.04 415.24,222.30 415.24,237.60" fill="#c45b0c"/>
-<polygon points="415.24,237.60 415.24,222.30 426.03,217.04 426.03,232.34" fill="#994709"/>
-<polygon points="415.24,211.78 426.03,217.04 415.24,222.30 404.46,217.04" fill="#f0700f"/>
+<polygon points="404.46,232.34 404.46,217.04 415.24,222.30 415.24,237.60" fill="#d1844d"/>
+<polygon points="415.24,237.60 415.24,222.30 426.03,217.04 426.03,232.34" fill="#a3673c"/>
+<polygon points="415.24,211.78 426.03,217.04 415.24,222.30 404.46,217.04" fill="#ffa25e"/>
 <polygon class="shine" points="415.24,211.78 426.03,217.04 415.24,222.30 404.46,217.04" fill="#ffffff" style="animation-delay:3.636s"/>
 </g>
 <g class="cube" style="animation-delay:1.014s">
@@ -1213,9 +1215,9 @@
 <polygon points="478.16,233.21 488.94,238.47 478.16,243.73 467.37,238.47" fill="#efebe8"/>
 </g>
 <g class="cube" style="animation-delay:1.058s">
-<polygon points="328.96,244.61 328.96,229.31 339.74,234.57 339.74,249.87" fill="#c45b0c"/>
-<polygon points="339.74,249.87 339.74,234.57 350.53,229.31 350.53,244.61" fill="#994709"/>
-<polygon points="339.74,224.05 350.53,229.31 339.74,234.57 328.96,229.31" fill="#f0700f"/>
+<polygon points="328.96,244.61 328.96,229.31 339.74,234.57 339.74,249.87" fill="#d1844d"/>
+<polygon points="339.74,249.87 339.74,234.57 350.53,229.31 350.53,244.61" fill="#a3673c"/>
+<polygon points="339.74,224.05 350.53,229.31 339.74,234.57 328.96,229.31" fill="#ffa25e"/>
 <polygon class="shine" points="339.74,224.05 350.53,229.31 339.74,234.57 328.96,229.31" fill="#ffffff" style="animation-delay:3.692s"/>
 </g>
 <g class="cube" style="animation-delay:1.058s">
@@ -1276,15 +1278,15 @@
 <polygon points="465.58,251.63 476.36,256.89 465.58,262.15 454.79,256.89" fill="#efebe8"/>
 </g>
 <g class="cube" style="animation-delay:1.102s">
-<polygon points="479.96,256.89 479.96,241.59 490.74,246.85 490.74,262.15" fill="#c45b0c"/>
-<polygon points="490.74,262.15 490.74,246.85 501.53,241.59 501.53,256.89" fill="#994709"/>
-<polygon points="490.74,236.33 501.53,241.59 490.74,246.85 479.96,241.59" fill="#f0700f"/>
+<polygon points="479.96,256.89 479.96,241.59 490.74,246.85 490.74,262.15" fill="#d1844d"/>
+<polygon points="490.74,262.15 490.74,246.85 501.53,241.59 501.53,256.89" fill="#a3673c"/>
+<polygon points="490.74,236.33 501.53,241.59 490.74,246.85 479.96,241.59" fill="#ffa25e"/>
 <polygon class="shine" points="490.74,236.33 501.53,241.59 490.74,246.85 479.96,241.59" fill="#ffffff" style="animation-delay:3.748s"/>
 </g>
 <g class="cube" style="animation-delay:1.102s">
-<polygon points="505.12,256.89 505.12,241.59 515.91,246.85 515.91,262.15" fill="#c45b0c"/>
-<polygon points="515.91,262.15 515.91,246.85 526.69,241.59 526.69,256.89" fill="#994709"/>
-<polygon points="515.91,236.33 526.69,241.59 515.91,246.85 505.12,241.59" fill="#f0700f"/>
+<polygon points="505.12,256.89 505.12,241.59 515.91,246.85 515.91,262.15" fill="#d1844d"/>
+<polygon points="515.91,262.15 515.91,246.85 526.69,241.59 526.69,256.89" fill="#a3673c"/>
+<polygon points="515.91,236.33 526.69,241.59 515.91,246.85 505.12,241.59" fill="#ffa25e"/>
 <polygon class="shine" points="515.91,236.33 526.69,241.59 515.91,246.85 505.12,241.59" fill="#ffffff" style="animation-delay:3.748s"/>
 </g>
 <g class="cube" style="animation-delay:1.124s">
@@ -1372,9 +1374,9 @@
 <polygon points="415.24,276.17 426.03,281.43 415.24,286.69 404.46,281.43" fill="#efebe8"/>
 </g>
 <g class="cube" style="animation-delay:1.190s">
-<polygon points="429.62,281.43 429.62,266.13 440.41,271.39 440.41,286.69" fill="#c45b0c"/>
-<polygon points="440.41,286.69 440.41,271.39 451.19,266.13 451.19,281.43" fill="#994709"/>
-<polygon points="440.41,260.87 451.19,266.13 440.41,271.39 429.62,266.13" fill="#f0700f"/>
+<polygon points="429.62,281.43 429.62,266.13 440.41,271.39 440.41,286.69" fill="#d1844d"/>
+<polygon points="440.41,286.69 440.41,271.39 451.19,266.13 451.19,281.43" fill="#a3673c"/>
+<polygon points="440.41,260.87 451.19,266.13 440.41,271.39 429.62,266.13" fill="#ffa25e"/>
 <polygon class="shine" points="440.41,260.87 451.19,266.13 440.41,271.39 429.62,266.13" fill="#ffffff" style="animation-delay:3.860s"/>
 </g>
 <g class="cube" style="animation-delay:1.190s">
@@ -1534,9 +1536,9 @@
 <polygon class="shine" points="591.41,275.52 602.19,280.78 591.41,286.04 580.62,280.78" fill="#ffffff" style="animation-delay:3.972s"/>
 </g>
 <g class="cube" style="animation-delay:1.278s">
-<polygon points="605.79,305.98 605.79,290.68 616.57,295.94 616.57,311.24" fill="#c45b0c"/>
-<polygon points="616.57,311.24 616.57,295.94 627.36,290.68 627.36,305.98" fill="#994709"/>
-<polygon points="616.57,285.42 627.36,290.68 616.57,295.94 605.79,290.68" fill="#f0700f"/>
+<polygon points="605.79,305.98 605.79,290.68 616.57,295.94 616.57,311.24" fill="#d1844d"/>
+<polygon points="616.57,311.24 616.57,295.94 627.36,290.68 627.36,305.98" fill="#a3673c"/>
+<polygon points="616.57,285.42 627.36,290.68 616.57,295.94 605.79,290.68" fill="#ffa25e"/>
 <polygon class="shine" points="616.57,285.42 627.36,290.68 616.57,295.94 605.79,290.68" fill="#ffffff" style="animation-delay:3.972s"/>
 </g>
 <g class="cube" style="animation-delay:1.300s">
@@ -1661,7 +1663,11 @@
 <polygon points="629.16,319.13 639.94,324.39 629.16,329.66 618.37,324.39" fill="#efebe8"/>
 </g>
 <g class="cube" style="animation-delay:1.344s">
-<polygon points="654.32,319.13 665.11,324.39 654.32,329.66 643.54,324.39" fill="#efebe8"/>
+<polygon points="643.54,324.39 643.54,300.99 654.32,306.26 654.32,329.66" fill="#973608"/>
+<polygon points="654.32,329.66 654.32,306.26 665.11,300.99 665.11,324.39" fill="#762a06"/>
+<polygon points="654.32,295.73 665.11,300.99 654.32,306.26 643.54,300.99" fill="#b9420a"/>
+<polygon class="glow" points="654.32,295.73 665.11,300.99 654.32,306.26 643.54,300.99" fill="#ff8a2b" filter="url(#blur)" style="animation-delay:2.60s"/>
+<polygon class="shine" points="654.32,295.73 665.11,300.99 654.32,306.26 643.54,300.99" fill="#ffffff" style="animation-delay:4.056s"/>
 </g>
 <g class="cube" style="animation-delay:1.366s">
 <polygon points="505.12,330.53 505.12,305.33 515.91,310.59 515.91,335.79" fill="#973608"/>
@@ -1695,6 +1701,9 @@
 <polygon points="616.57,335.79 616.57,313.29 627.36,308.03 627.36,330.53" fill="#994709"/>
 <polygon points="616.57,302.77 627.36,308.03 616.57,313.29 605.79,308.03" fill="#f0700f"/>
 <polygon class="shine" points="616.57,302.77 627.36,308.03 616.57,313.29 605.79,308.03" fill="#ffffff" style="animation-delay:4.084s"/>
+</g>
+<g class="cube" style="animation-delay:1.366s">
+<polygon points="641.74,325.27 652.52,330.53 641.74,335.79 630.95,330.53" fill="#efebe8"/>
 </g>
 <g class="cube" style="animation-delay:1.388s">
 <polygon points="517.71,336.67 517.71,314.17 528.49,319.43 528.49,341.93" fill="#c45b0c"/>
@@ -1795,7 +1804,7 @@
 </g>
 <text x="-96.08" y="282.53" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8" font-weight="600" fill="#59636e" text-anchor="start" letter-spacing=".8" class="fade" style="animation-delay:1s">MOST ACTIVE DAYS</text>
 <rect x="-96.08" y="296.53" width="11" height="52" rx="2" fill="#d8dee4" fill-opacity=".35"/>
-<rect class="bar" x="-96.08" y="322.60" width="11" height="25.94" rx="2" fill="url(#bar)" style="animation-delay:1.10s"/>
+<rect class="bar" x="-96.08" y="320.74" width="11" height="27.79" rx="2" fill="url(#bar)" style="animation-delay:1.10s"/>
 <text x="-90.58" y="360.53" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" font-weight="400" fill="#59636e" text-anchor="middle" >S</text>
 <rect x="-80.08" y="296.53" width="11" height="52" rx="2" fill="#d8dee4" fill-opacity=".35"/>
 <rect class="bar" x="-80.08" y="312.76" width="11" height="35.77" rx="2" fill="url(#bar)" style="animation-delay:1.17s"/>
@@ -1824,5 +1833,5 @@
 <rect x="-24.08" y="370.531763302825" width="9" height="9" rx="2" fill="#b9420a" stroke="#d8dee4" stroke-width=".5"/>
 <text x="-9.08" y="378.53" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.5" font-weight="400" fill="#59636e" text-anchor="start" >More</text>
 </g>
-<text x="23.92" y="378.53" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.5" font-weight="400" fill="#59636e" text-anchor="start" class="fade" style="animation-delay:1.5s">143 active days · updated Nov 22, 2026</text>
+<text x="23.92" y="378.53" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.5" font-weight="400" fill="#59636e" text-anchor="start" class="fade" style="animation-delay:1.5s">144 active days · updated Nov 23, 2026</text>
 </svg>
